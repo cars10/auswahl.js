@@ -1,0 +1,8 @@
+{
+  "name": "auswahl.js",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/cars10/auswahl.js",
+  "author": "Carsten König <carstenkoenig92@gmail.com>",
+  "license": "MIT"
+}
